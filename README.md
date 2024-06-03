@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TANISHA SURESHSINH VIHOL</h1>
+<h1 align="center">Hi 👋, I'm TANISHA VIHOL</h1>
 <h3 align="center">I am a passionate individual pursuing a B.Tech in Technology, I am deeply engrossed in the dynamic realms of cybersecurity and front-end development. With an insatiable curiosity and a drive for innovation, I am committed to mastering these fields and contributing to the ever-evolving landscape of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishavihol&label=Profile%20views&color=0e75b6&style=flat" alt="tanishavihol" /> </p>
